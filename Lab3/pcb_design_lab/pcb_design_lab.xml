@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>F:\MSTI\Course\Hardware Software Lab I\Lab\TECHIN-514\Lab3\pcb_design_lab\pcb_design_lab.kicad_sch</source>
+    <date>2026-01-28T16:22:15-0800</date>
+    <tool>Eeschema 9.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PCB Design Lab</title>
+        <company/>
+        <rev/>
+        <date>2026-01-28</date>
+        <source>pcb_design_lab.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.47u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc8b352b-04ec-455c-9bba-1e8cfbce1aa3</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.47u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5f6d1dc-63ea-4816-8606-758a4edbf892</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.47u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80520796-f539-4d92-82e3-ed06c92cf5ab</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">LED_SMD:LED_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>489b2055-a35e-44b9-bb5d-8433b6fd91b6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04_Pin</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0eca080-8727-4c77-8071-53b8e71e8c92</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>174k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6127468c-cdf2-4b57-bb60-8e46b318200c</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3cff7e8-6eb8-4a94-b3e9-c655ea32572d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b77fcf7-e5a7-4501-9809-3bd13402922e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56b6ed87-fdc3-494a-98d5-84027d2114eb</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>feed8ec0-b508-494a-9e2d-113c6b58d82b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MMC5603NJ</value>
+      <footprint>MMC5603NJ:WLP4_0P82X0P82_MEM</footprint>
+      <datasheet>MMC5603NJ</datasheet>
+      <fields>
+        <field name="Footprint">MMC5603NJ:WLP4_0P82X0P82_MEM</field>
+        <field name="Datasheet">MMC5603NJ</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="sensorcircuits" part="MMC5603NJ" description=""/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <property name="ki_keywords" value="MMC5603NJ"/>
+      <property name="ki_fp_filters" value="WLP4_0P82X0P82_MEM WLP4_0P82X0P82_MEM-M WLP4_0P82X0P82_MEM-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3f79fa8-da35-4619-8482-4ae3bf24b154</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ADP3331ARTZ-REEL7</value>
+      <footprint>ADP3331:SOT95P280X145-6N</footprint>
+      <fields>
+        <field name="Footprint">ADP3331:SOT95P280X145-6N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="sensorcircuits" part="ADP3331ARTZ-REEL7" description=""/>
+      <property name="Sheetname" value="根目录"/>
+      <property name="Sheetfile" value="pcb_design_lab.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c858b71a-c543-4bf1-a740-11df4b5f9805</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="sensorcircuits" part="ADP3331ARTZ-REEL7">
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">ADP3331ARTZ-REEL7</field>
+        <field name="Footprint">ADP3331ARTZ-REEL7:SOT95P280X145-6N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="IN" type="input"/>
+        <pin num="3" name="~{ERR}" type="bidirectional"/>
+        <pin num="4" name="GND" type="output"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="6" name="~{SD}" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="sensorcircuits" part="MMC5603NJ">
+      <docs>MMC5603NJ</docs>
+      <footprints>
+        <fp>WLP4_0P82X0P82_MEM</fp>
+        <fp>WLP4_0P82X0P82_MEM-M</fp>
+        <fp>WLP4_0P82X0P82_MEM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">MMC5603NJ</field>
+        <field name="Footprint">WLP4_0P82X0P82_MEM</field>
+        <field name="Datasheet">MMC5603NJ</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="A1" name="VSA" type="power_out"/>
+        <pin num="A2" name="SCL" type="input"/>
+        <pin num="B1" name="VDD" type="power_in"/>
+        <pin num="B2" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>F:\KiCad\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>F:\KiCad\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="sensorcircuits">
+      <uri>F:/C盘余孽/CDocuments/KiCad/9.0/symbols/sensorcircuits.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="B1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="2" name="/SCL" class="Default">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="A2" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="3" name="/SDA" class="Default">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="B2" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="GND" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="A1" pinfunction="VSA" pintype="power_out"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="output"/>
+    </net>
+    <net code="5" name="Net-(D1-A)" class="Default">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(U2-FB)" class="Default">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="7" name="VCC" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="8" name="unconnected-(U2-~{ERR}-Pad3)" class="Default">
+      <node ref="U2" pin="3" pinfunction="~{ERR}" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="unconnected-(U2-~{SD}-Pad6)" class="Default">
+      <node ref="U2" pin="6" pinfunction="~{SD}" pintype="output"/>
+    </net>
+  </nets>
+</export>
